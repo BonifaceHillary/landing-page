@@ -1,5 +1,5 @@
 // import React from 'react'
-import Background from "./Components/Background/Background"
+import Background from "./Components/Background/Background.jsx"
 import { useState } from "react"
 
 let heroData = [
@@ -13,7 +13,7 @@ const [playStatus, setPlayStatus] = useState(false)
 const App = () => {
   return (
     <div>
-      <Background/>
+      <Background playStatus={playStatus} heroCount={heroCount} />
       
     </div>
   )
