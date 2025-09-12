@@ -1,4 +1,4 @@
-// import React from 'react'
+
 import './Background.css'
 import video1 from '../../assets/video1.mp4'
 import image1 from '../src/assets/image1.jpg'
