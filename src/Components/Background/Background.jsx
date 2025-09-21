@@ -19,10 +19,10 @@ const Background = ({playStatus,heroCount}) => {
     return <img src={car4} className='background' alt=""/>
   }
   else if(heroCount===1){
-    return <img src={car5} alt=""/>
+    return <img src={car5} className='background' alt=""/>
   }
   else if (heroCount===2){
-    return <img src={car3} alt=""/>
+    return <img src={car3} className='background' alt=""/>
   }
 
 
