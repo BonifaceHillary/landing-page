@@ -14,7 +14,7 @@
   font-weight: 500;
 }
 
-.nav-menu{
+.nav-menu {
   display: flex;
   align-items: center;
   list-style: none;
@@ -22,7 +22,7 @@
   font-size: 18px;
 }
 
-.nav-contact{
+.nav-contact {
   border-radius: 50px;
   padding: 10px 38px;
   background: #fff;
