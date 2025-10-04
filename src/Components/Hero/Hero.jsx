@@ -1,4 +1,4 @@
-// import React from 'react'
+// import React from
 import './Hero.css'
 import arrow from '../../assets/arrow-icon.png'
 
